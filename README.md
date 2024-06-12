@@ -8,6 +8,7 @@ Welcome to the Linux Fundamentals repository! Whether you're a beginner looking 
 
 ## [Linux-cheatsheet](https://github.com/MaheshShukla1/Linux-Fundamentals/wiki/Linux%E2%80%90cheatsheet/_edit)
 
+## [Linux Find Command: Ultimate Guide](https://github.com/MaheshShukla1/Linux-Fundamentals-Advance-Notes/wiki/Linux-Find-Command:-Ultimate-Guide)
 
 
 ### 📝 Contents
