@@ -10,6 +10,9 @@ Welcome to the Linux Fundamentals repository! Whether you're a beginner looking 
 
 ## [Linux Find Command: Ultimate Guide](https://github.com/MaheshShukla1/Linux-Fundamentals-Advance-Notes/wiki/Linux-Find-Command:-Ultimate-Guide)
 
+## [Linux File Systems: Ultimate Guide](https://github.com/MaheshShukla1/Linux-Basic-to-Advanced-Notes/wiki/Ultimate-Guide-to-Linux-File-Systems%3A-Layers%2C-Characteristics%2C-and-Implementations/_edit)
+
+## [Linux File Hierarchy: Understanding the FHS for Unix‐like Systems](https://github.com/MaheshShukla1/Linux-Basic-to-Advanced-Notes/wiki/Linux-File-Hierarchy%3A-Understanding-the-FHS-for-Unix%E2%80%90like-Systems/_edit)
 
 ### 📝 Contents
 * Cheat Sheets: Quick reference guides for essential Linux commands, file system navigation, package management, and more.
