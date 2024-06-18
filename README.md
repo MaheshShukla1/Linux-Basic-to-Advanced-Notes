@@ -1,6 +1,6 @@
 # 🐧 Linux Fundamentals: From Basic to Advanced
 
-Welcome to the Linux Fundamentals repository! Whether you're a beginner looking to learn the basics or an experienced user diving into advanced topics, this resource is designed to help you master Linux from the ground up.
+Welcome to the Linux Fundamentals repository! Whether you're a beginner looking to learn the basics or an experienced user diving into advanced topics, this resource is designed to help you master Linux from the ground up.🥉
 
 ## [Introduction To Linux OS Distribution](https://github.com/MaheshShukla1/Linux-Fundamentals/wiki/Introduction-to-Linux-Operating-System)
 
