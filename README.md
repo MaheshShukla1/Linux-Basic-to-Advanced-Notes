@@ -14,6 +14,7 @@ Welcome to the Linux Fundamentals repository! Whether you're a beginner looking 
 
 ## [Linux File Hierarchy: Understanding the FHS for Unix‐like Systems](https://github.com/MaheshShukla1/Linux-Basic-to-Advanced-Notes/wiki/Linux-File-Hierarchy%3A-Understanding-the-FHS-for-Unix%E2%80%90like-Systems/_edit)
 
+## [Linux Directory Structure](https://github.com/MaheshShukla1/Linux-Basic-to-Advanced-Notes/wiki/Linux-Directory-Structure)
 ### 📝 Contents
 * Cheat Sheets: Quick reference guides for essential Linux commands, file system navigation, package management, and more.
 * Detailed Content: Comprehensive explanations of fundamental concepts, shell scripting, system administration, networking, and security.
