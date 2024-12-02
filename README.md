@@ -33,6 +33,7 @@
 * Clone the Repo: Run git clone https://github.com/MaheshShukla1/Linux-Basics-To-Advanced.git to clone the repository to your local machine.
 * Explore the Content: Browse through the cheat sheets, detailed content, exercises, and tips provided.
 * Start Learning: Follow the structured learning path or dive into specific topics based on your interests and knowledge level.
+  
 ### 🐚 Linux Fundamentals Outline
 * 1. Introduction to Linux
 What is Linux and its history?
